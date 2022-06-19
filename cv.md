@@ -18,7 +18,7 @@ def multiply(a, b):
     return a * b
 ```
 
-## Experiance
+## Experience
 Some python pet projects
 
 ## Education
